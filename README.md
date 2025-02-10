@@ -14,7 +14,10 @@ clustering techniques.
 
 ## Results
 
-| DataSet|DBScan |GMM|              Kmeans              |MeanShift|
-|:-------------:|:--:|:--:|:--------------------------------:|:--:|
-| |![](doc/dataset0.csv-dbscan.png)|![](doc/dataset0.csv-gmm.png)| ![](doc/dataset0.csv-kmeans.png) |![](doc/dataset0.csv-mean-shift.png)
+| DataSet|              DBScan              |              GMM              |              Kmeans              |MeanShift|
+|:-------------:|:--------------------------------:|:-----------------------------:|:--------------------------------:|:--:|
+| | ![](doc/dataset0.csv-dbscan.png) | ![](doc/dataset0.csv-gmm.png) | ![](doc/dataset0.csv-kmeans.png) |![](doc/dataset0.csv-mean-shift.png)
+| | ![](doc/dataset1.csv-dbscan.png) | ![](doc/dataset1.csv-gmm.png) | ![](doc/dataset1.csv-kmeans.png) |![](doc/dataset1.csv-mean-shift.png)
+| | ![](doc/dataset2.csv-dbscan.png) | ![](doc/dataset2.csv-gmm.png) | ![](doc/dataset2.csv-kmeans.png) |![](doc/dataset2.csv-mean-shift.png)
+| | ![](doc/dataset3.csv-dbscan.png) | ![](doc/dataset3.csv-gmm.png) | ![](doc/dataset3.csv-kmeans.png) |![](doc/dataset3.csv-mean-shift.png)
 
