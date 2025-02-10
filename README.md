@@ -14,4 +14,7 @@ clustering techniques.
 
 ## Results
 
+| DataSet|DBScan |GMM|              Kmeans              |MeanShift|
+|:-------------:|:--:|:--:|:--------------------------------:|:--:|
+| |![](doc/dataset0.csv-dbscan.png)|![](doc/dataset0.csv-gmm.png)| ![](doc/dataset0.csv-kmeans.png) |![](doc/dataset0.csv-mean-shift.png)
 
