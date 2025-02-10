@@ -14,12 +14,12 @@ clustering techniques.
 
 ## Results
 
-|               DataSet               |              DBScan              |              GMM              |              Kmeans              |MeanShift|
-|:-----------------------------------:|:--------------------------------:|:-----------------------------:|:--------------------------------:|:--:|
-| [dataset 0](/datasets/dataset0.csv) | ![](doc/dataset0.csv-dbscan.png) | ![](doc/dataset0.csv-gmm.png) | ![](doc/dataset0.csv-kmeans.png) |![](doc/dataset0.csv-mean-shift.png)|
-|                                     | ![](doc/dataset1.csv-dbscan.png) | ![](doc/dataset1.csv-gmm.png) | ![](doc/dataset1.csv-kmeans.png) |![](doc/dataset1.csv-mean-shift.png)|
-|                                     | ![](doc/dataset2.csv-dbscan.png) | ![](doc/dataset2.csv-gmm.png) | ![](doc/dataset2.csv-kmeans.png) |![](doc/dataset2.csv-mean-shift.png)|
-|                                     | ![](doc/dataset3.csv-dbscan.png) | ![](doc/dataset3.csv-gmm.png) | ![](doc/dataset3.csv-kmeans.png) |![](doc/dataset3.csv-mean-shift.png)|
-|                                     | ![](doc/dataset4.csv-dbscan.png) | ![](doc/dataset4.csv-gmm.png) | ![](doc/dataset4.csv-kmeans.png) |![](doc/dataset4.csv-mean-shift.png)|
-|                                     | ![](doc/dataset5.csv-dbscan.png) | ![](doc/dataset5.csv-gmm.png) | ![](doc/dataset5.csv-kmeans.png) |![](doc/dataset5.csv-mean-shift.png)|
+|              DataSet               |              DBScan              |              GMM              |              Kmeans              |MeanShift|
+|:----------------------------------:|:--------------------------------:|:-----------------------------:|:--------------------------------:|:--:|
+| [dataset0](/datasets/dataset0.csv) | ![](doc/dataset0.csv-dbscan.png) | ![](doc/dataset0.csv-gmm.png) | ![](doc/dataset0.csv-kmeans.png) |![](doc/dataset0.csv-mean-shift.png)|
+| [dataset1](/datasets/dataset1.csv) | ![](doc/dataset1.csv-dbscan.png) | ![](doc/dataset1.csv-gmm.png) | ![](doc/dataset1.csv-kmeans.png) |![](doc/dataset1.csv-mean-shift.png)|
+| [dataset2](/datasets/dataset0.csv) | ![](doc/dataset2.csv-dbscan.png) | ![](doc/dataset2.csv-gmm.png) | ![](doc/dataset2.csv-kmeans.png) |![](doc/dataset2.csv-mean-shift.png)|
+| [dataset3](/datasets/dataset0.csv) | ![](doc/dataset3.csv-dbscan.png) | ![](doc/dataset3.csv-gmm.png) | ![](doc/dataset3.csv-kmeans.png) |![](doc/dataset3.csv-mean-shift.png)|
+| [dataset4](/datasets/dataset0.csv) | ![](doc/dataset4.csv-dbscan.png) | ![](doc/dataset4.csv-gmm.png) | ![](doc/dataset4.csv-kmeans.png) |![](doc/dataset4.csv-mean-shift.png)|
+| [dataset5](/datasets/dataset0.csv) | ![](doc/dataset5.csv-dbscan.png) | ![](doc/dataset5.csv-gmm.png) | ![](doc/dataset5.csv-kmeans.png) |![](doc/dataset5.csv-mean-shift.png)|
 
